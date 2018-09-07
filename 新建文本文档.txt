@@ -1,0 +1,19 @@
+GitHub 新手详细教程
+https://blog.csdn.net/Hanani_Jia/article/details/77950594
+https://blog.csdn.net/qazwsxpcm/article/details/68946736
+
+spring cloud feign学习二：Feign的深入使用
+https://www.jianshu.com/p/81044b437ff8
+
+Spring Cloud Eureka 生产者，消费者，注册中心
+https://blog.csdn.net/qq_38085977/article/details/80529788
+
+
+史上最简单的 SpringCloud 教程 | 终章
+https://blog.csdn.net/forezp/article/details/70148833/
+
+Java-分析SpringMvc底层
+http://www.iqiyi.com/w_19ru3e5q8d.html
+
+前台框架
+https://www.layui.com/
